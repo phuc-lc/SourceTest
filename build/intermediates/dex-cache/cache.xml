@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.0_f4f38d08e35b9f7fec8186888930eb1d24549839.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_f15234d55754f95d5a82161676ff52f3be334fcf.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.0_57e8de6fe12f3e6361ecb5dde88925c0fae75ca8.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="732b709aad3e8adf2c6fd58eb4358b6d9fe0b8d2">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\instant-run_c7e64eb41233189b012f5e5c7919587e01ab5be4.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.0_2e108f00af65f62b338ee9cb07e655f0ae65977f.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.0_c323e6ed8e0063021daf01d0d978f983505fa187.jar" />
+    </item>
+    <item
+        jar="E:\software\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_ade2eeab440ddd4b6d0b64ecb45484c669c85a0d.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b71118d8eb35e4a5fd713f393a97faa2d6a7178e">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_73fbabf3b118efc4e02ede85d08f60e43463bd04.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\design\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.0_fb11b799313be272553a8cfd78edcc738bd7d296.jar" />
+    </item>
+    <item
+        jar="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="E:\workspace\AndroidStudio\MyFirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.0_38d287b65097a466d78b97a24a7f42de681beffa.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng dụng đầu tiên</string>
+    <string name="edit_message">Nhập tin nhắn</string>
+    <string name="button_send">Gửi</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="title_activity_display_message">Tin nhắn</string>
+</resources>

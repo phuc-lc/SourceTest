@@ -18,6 +18,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".SubActivity1"
+            android:label="SubActivity1"
+            android:theme="@android:style/Theme.Dialog"/>
+        <activity
+            android:name=".SubActivity2"
+            android:label="SubActivity2" />
     </application>
 
 </manifest>
